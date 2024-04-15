@@ -1,0 +1,30 @@
+{{define "main"}}
+{{partial "header" .}}
+<div class="project-hero">
+    <div class="project-hero__container">
+        <h1>{{.Title}}</h1>
+    </div>
+</div>
+<div class="project-into">
+    <div class="project-into__container">
+        {{.Content}}
+        <h2>صور المشروع</h2>
+        <div class="project-gallary">
+            <img src="{{.Params.img1}}" class="project-image" alt="project-image">
+            <div class="project-gallary__small">
+                <img src="{{.Params.img2}}" class="project-image" alt="project-image">
+                <img src="{{.Params.img3}}" class="project-image" alt="project-image">
+                <img src="{{.Params.img4}}" class="project-image" alt="project-image">
+                <img src="{{.Params.img5}}" class="project-image" alt="project-image">
+            </div>
+        </div>
+    </div>
+    <div class="layer">
+        <div class="layer-container">
+            <i class="fa-solid fa-circle-xmark"></i>
+            <img src="{{.Params.img}}" alt="project-image">
+        </div>
+    </div>
+</div>
+{{partial "footer" .}}
+{{end}}

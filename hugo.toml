@@ -1,0 +1,4 @@
+baseURL = ''
+languageCode = 'ar'
+title = 'شركة تقنية'
+relativeURLS = true
