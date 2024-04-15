@@ -6,11 +6,11 @@ auther = 'ali obaid'
 flag = "project"
 summary = 'هناك حقيقة مثبتة منذ زمن طويل وهي أن المحتوى المقروء لصفحة ما سيلهي القارئ عن التركيز على الشكل الخارجي للنص أو شكل توضع الفقرات في الصفحة التي يقرأها'
 thumb = '/images/projects/project5/project-5-thumb.jpg'
-img1 = '/images/projects/porject5/project-5.jpg'
-img2 = '/images/projects/porject5/project-5-1.jpg'
-img3 = '/images/projects/porject5/project-5-2.jpg'
-img4 = '/images/projects/porject5/project-5-3.jpg'
-img5 = '/images/projects/porject5/project-5-4.jpg'
+img1 = '/images/projects/project5/project-5.jpg'
+img2 = '/images/projects/project5/project-5-1.jpg'
+img3 = '/images/projects/project5/project-5-2.jpg'
+img4 = '/images/projects/project5/project-5-3.jpg'
+img5 = '/images/projects/project5/project-5-4.jpg'
 +++
 
 ## هناك حقيقة مثبتة منذ زمن طويل 

@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://dr-ali-obaid.github.io/company-hugo-live/'
 languageCode = 'ar'
 title = 'شركة تقنية'
-relativeURLS = true
+relativeURLs = 'true'
